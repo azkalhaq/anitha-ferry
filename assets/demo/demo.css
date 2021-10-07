@@ -504,7 +504,7 @@
 
 #clockdiv{
 	font-family: sans-serif;
-	color: #fff;
+	color: #000;
 	display: inline-block;
 	font-weight: 100;
 	text-align: center;
@@ -520,7 +520,7 @@
 	background-image: -webkit-linear-gradient(to bottom left, #00f2c3, #0098f0, #00f2c3);
 	background-image: -o-linear-gradient(to bottom left, #00f2c3, #0098f0, #00f2c3);
 	background-image: -moz-linear-gradient(to bottom left, #00f2c3, #0098f0, #00f2c3);
-	background-image: linear-gradient(to bottom left, #00f2c3, #298b73, #00f2c3);
+	background-image: linear-gradient(to bottom left, #00f2c3, #60b7c1, #00f2c3);
 	background-size: 210% 210%;
 	background-position: top right;
 	background-color: #00f2c3;
